@@ -2,8 +2,7 @@
 
 ### 🤖 AI Engineer | LLMs · RAG · Computer Vision | Python · FastAPI · LangChain
 
-I build intelligent systems that solve real-world problems — from document processing and NLP pipelines to multi-modal AI applications. My journey started in Electrical Engineering, evolved through large-scale data engineering, and led me to where I love being: at the intersection of AI and product.
-
+On my way to becoming a better version of myself, and currently learning AI by building things that matter to me. 
 ---
 
 ## 🛠️ Tech Stack
@@ -41,8 +40,14 @@ I build intelligent systems that solve real-world problems — from document pro
 - 🤖 Stage 2: LLM scoring with detailed justifications for final ranking
 - 📄 Processes expert profiles from PDFs using PyPDFLoader
 
-`Python 3.12` `Sentence Transformers` `LLMs` `Scikit-learn` `PyPDFLoader`
 
+
+### 🔍 [Expert Matcher — LLM-Powered Ranking](https://github.com/madhuri-mattaparthy/Compliance-QA-AI-Assistant)
+> Two-stage expert ranking system combining semantic search with LLM intelligence.
+
+- 📊 Stage 1: Extracts transcripts and on-screen text (OCR) via Azure Video Indexer
+- 🤖 Stage 2: RAG pipeline retrieves relevant compliance rules from Azure AI Search
+- 📄 LLM generates structured PASS/FAIL reports with severity levels and violation summaries
 
 
 ## 📫 Let's Connect
