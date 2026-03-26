@@ -34,18 +34,6 @@ I build intelligent systems that solve real-world problems — from document pro
 
 ## 🚀 Featured Projects
 
-### 🎨 [Scribble Quest — AI Drawing Game](https://github.com/madhuri-mattaparthy/Scribble_quest)
-> An interactive educational game for kids powered by multiple AI models working together.
-
-- 🧠 GPT-4 Vision for real-time drawing analysis
-- 🎨 DALL-E 3 generates personalized reward artwork
-- 🔗 LangChain orchestrates AI challenges and scoring
-- 🖥️ HTML5 Canvas frontend with progressive level system
-
-`FastAPI` `GPT-3.5 Turbo` `GPT-4 Vision` `DALL-E 3` `LangChain` `HTML5` `PIL`
-
----
-
 ### 🔍 [Expert Matcher — LLM-Powered Ranking](https://github.com/madhuri-mattaparthy/Expert_matcher)
 > Two-stage expert ranking system combining semantic search with LLM intelligence.
 
@@ -55,42 +43,7 @@ I build intelligent systems that solve real-world problems — from document pro
 
 `Python 3.12` `Sentence Transformers` `LLMs` `Scikit-learn` `PyPDFLoader`
 
----
 
-### 🏥 Healthcare RCM AI *(In Progress)*
-> Intelligent system to streamline healthcare billing and revenue cycle management.
-
-- Automating decision-making workflows to reduce manual errors
-- ML pattern recognition on complex healthcare billing data
-- End-to-end pipeline from data ingestion to actionable insights
-
----
-
-### 📄 Invoice Extractor *(In Progress)*
-> End-to-end document processing system using Computer Vision + NLP.
-
-- Deep learning models for accurate text detection across invoice formats
-- Extracts and classifies key fields automatically
-- Handles diverse invoice layouts with high accuracy
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhuri-mattaparthy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri-mattaparthy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- 🔵 Azure ML & Azure OpenAI Service
-- 🔁 MLOps — model monitoring, CI/CD pipelines for ML
-- 🧩 Multi-agent AI systems with LangGraph
-
----
 
 ## 📫 Let's Connect
 
