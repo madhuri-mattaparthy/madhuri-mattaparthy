@@ -42,7 +42,7 @@ On my way to become a better version of myself, currently learning AI by buildin
 
 
 
-### 🔍 [Expert Matcher — LLM-Powered Ranking](https://github.com/madhuri-mattaparthy/Compliance-QA-AI-Assistant)
+### 🔍 [Compliance QA Assistant](https://github.com/madhuri-mattaparthy/Compliance-QA-AI-Assistant)
 > Two-stage expert ranking system combining semantic search with LLM intelligence.
 
 - 📊 Stage 1: Extracts transcripts and on-screen text (OCR) via Azure Video Indexer
@@ -58,4 +58,3 @@ On my way to become a better version of myself, currently learning AI by buildin
 
 ---
 
-*"The best AI systems don't just process data — they genuinely solve real-world problems."*
