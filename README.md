@@ -1,9 +1,5 @@
-# Hi, I'm Madhuri Mattaparthy 👋
 
-### 🤖 AI Engineer | LLMs · RAG · Computer Vision | Python · FastAPI · LangChain
-
-On my way to become a better version of myself, currently learning AI by building things that matter to me. 
----
+## 🤖 AI Engineer | LLMs · RAG · Computer Vision | Python · FastAPI · LangChain
 
 ## 🛠️ Tech Stack
 
