@@ -2,7 +2,7 @@
 
 ### 🤖 AI Engineer | LLMs · RAG · Computer Vision | Python · FastAPI · LangChain
 
-On my way to becoming a better version of myself, and currently learning AI by building things that matter to me. 
+On my way to become a better version of myself, currently learning AI by building things that matter to me. 
 ---
 
 ## 🛠️ Tech Stack
